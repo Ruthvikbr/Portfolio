@@ -35,6 +35,8 @@
 
 /* Banner area */
 
+
+
 .site-main .site-banner .site-title h3{
   padding-top: 10%;
   font-weight: 500;
@@ -62,4 +64,10 @@
 .site-main .site-banner .banner-image > img{
     width: 30rem;
     height: 25rem;
+}
+
+/* About area */
+
+.site-main .about-area{
+  padding: 8rem 5rem;
 }
